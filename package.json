@@ -1,0 +1,18 @@
+{
+  "name": "awskms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-sdk/credential-providers": "^3.58.0",
+    "@onflow/fcl": "^0.0.78",
+    "@onflow/types": "^0.0.6",
+    "dotenv": "^16.0.0",
+    "fcl-kms-authorizer": "^0.0.13"
+  }
+}
